@@ -3648,7 +3648,7 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(227, 227, 227, 0.26), rgba(55, 140, 63, 0.95));
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95));
   /* Standard syntax */ }
 
 .section-full-page[data-image]:after {
@@ -3843,7 +3843,7 @@ Created using IcoMoon - icomoon.io
     /* For Safari 5.1 to 6.0 */
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
-    background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(13, 2, 222, 0.6));
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.6));
     /* Standard syntax */ }
   .page-header .container {
     z-index: 2; }
@@ -5118,12 +5118,12 @@ Created using IcoMoon - icomoon.io
 /* Body */
 /* Profile Page Background Style */
 .page-header {
-  background: rgba(44, 44, 44, 0.2);
+  background: #0077b6;
   /* For browsers that do not support gradients */
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  /* background: linear-gradient(0deg, rgba(133, 133, 133, 0.2), rgba(0, 68, 255, 0.6)); */
   /* Standard syntax */ }
   .page-header .btn {
     width: 140px; }
